@@ -1,6 +1,6 @@
 # Ejercicios de Java 👋
 
-Hola, soy Carlos, también conocido como PoeMadara. Este repositorio contiene una serie de ejercicios de Java que he estado haciendo y subiendo a GitHub.
+Hola, soy Carlos, también conocido como PoeMadara. Este repositorio contiene una serie de ejercicios de Java que he estado haciendo y subiendo a GitHub, estos códigos los pongo de manera pública para quien le interese o le sirva.
 
 ## Acerca de los ejercicios
 
