@@ -1,29 +1,61 @@
-# Ejercicios de Java 👋
+# Java Project
 
-Hola, soy Carlos, también conocido como PoeMadara. Este repositorio contiene una serie de ejercicios de Java que he estado haciendo y subiendo a GitHub, estos códigos los pongo de manera pública para quien le interese o le sirva.
+This repository contains a Java project. Follow the steps below to download and run the program using Git Bash.
 
-## Acerca de los ejercicios
+## Prerequisites
 
-Los ejercicios cubren una variedad de temas en Java, incluyendo:
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) installed (version 8 or higher)
+- [Git](https://git-scm.com/) installed
 
-- Fundamentos de Java
-- Estructuras de control
-- Clases y objetos
-- Herencia y polimorfismo
+## Getting Started
 
-## Cómo utilizar este repositorio
+### Clone the Repository
 
-Para utilizar este repositorio, puedes clonarlo a tu máquina local utilizando el siguiente comando en tu terminal:
+>To clone the repository, open Git Bash and run the following command:
 
-👉 git clone https://github.com/PoeMadara/Algoritmos-Java.git
 
-Asegúrate de tener instalado Java y un IDE que soporte Java, como Visual Studio Code, IntelliJ IDEA o Eclipse.
+>git clone https://github.com/PoeMadara/Algoritmos-Java.git
 
-## Contacto
+### Navigate to the Project Directory
+Open Git Bash where you put the file, example rute directory:
+```
+cd /c/Users/Nickname/Desktop/Algoritmos-Java  (You must charge Nickname by yours user)
+```
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme:
+### Compile and Run a Specific Java File
 
-- LinkedIn: https://www.linkedin.com/in/carlosvergaragamez/
-- Twitter: https://twitter.com/Poe_Madara
+```To compile and run a specific Java file (e.g., MyFile.java), follow these steps in Git Bash:
 
-¡Gracias por visitar mi repositorio!
+Compile the file:
+
+javac MyFile.java
+
+Run the compiled file:
+
+java MyFile
+Replace MyFile with the name of the file you want to compile and run.
+```
+>Example.
+
+Suppose you have the following files in your folder:
+
+```File1.java
+File2.java
+File3.java
+```
+
+And you want to run File2.java.
+
+```Compile:
+
+javac File2.java
+
+Run:
+
+java File2
+```
+
+*Contact*
+- E-mail: carlos.poemadara@gmail.com
+- LinkedIn: [Carlos Vergara Gamez](https://www.linkedin.com/in/carlosvergaragamez/)
+- Twitter: @Poe_Madara
